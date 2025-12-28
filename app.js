@@ -1,0 +1,1 @@
+list=[{name:'hjgdsf',id:0},{name:'sg',id:0},{name:'agh',id:0}]
